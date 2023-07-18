@@ -6,16 +6,15 @@ items:
  - gamelab/kiwi.js
  - craftyjs/Crafty
  - liabru/matter-js
- - shakiba/stage.js
+ - piqnt/stage.js
  - cocos2d/cocos2d-html5
  - playcanvas/engine
- - cookiengineer/lycheejs
  - BabylonJS/Babylon.js
  - ekelokorpi/panda-engine
  - qiciengine/qiciengine
  - WhitestormJS/whs.js
  - GooTechnologies/goojs
- - shakiba/planck.js
+ - piqnt/planck.js
  - Irrelon/ige
  - 4ian/GDevelop
  - mrdoob/three.js

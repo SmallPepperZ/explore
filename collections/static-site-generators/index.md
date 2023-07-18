@@ -10,14 +10,14 @@ items:
  - getpelican/pelican
  - facebook/docusaurus
  - slatedocs/slate
- - nuxt/nuxt.js
+ - nuxt/nuxt
  - gridsome/gridsome
  - middleman/middleman
  - react-static/react-static
  - docsifyjs/docsify
  - mkdocs/mkdocs
  - sintaxi/harp
- - netlify/netlify-cms
+ - decaporg/decap-cms
  - jaspervdj/hakyll
  - umijs/umi
  - abelljs/abell

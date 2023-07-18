@@ -11,8 +11,7 @@ items:
  - atomixinteractions/materialized
  - takanassyi/react-and-rekognition
  - takanassyi/react-tutorial-ts-mui
- - mqckind/crowdmeeting
- - ERS-HCL/react-atomic-lib
+ - thepureinx000/crowdmeeting
 display_name: Material-UI Projects Using Atomic Design
 created_by: trentschnee
 ---
